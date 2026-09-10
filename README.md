@@ -1,2 +1,2 @@
-# Kubernetes_Leaning
+# Kubernetes_Learning
 Learning Kubernetes
